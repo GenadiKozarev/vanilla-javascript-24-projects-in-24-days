@@ -3,13 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>JS Drum Kit</title>
+    <title>Drum Kit</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-
-
     <div class="keys">
         <div data-key="65" class="key">
             <kbd>A</kbd>
@@ -60,10 +58,17 @@
     <audio data-key="76" src="sounds/tink.wav"></audio>
 
     <script>
-
+        window.addEventListener('keydown', (e) => {
+            const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
+            const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
+            // if there is no key mapped to an audio, stop the function from running all together
+            if (!audio) return;
+            // rewind to the start to avoid delaying longer sounds in case of a user
+            // quickly pressing the same button over and over again
+            audio.currentTime = 0;
+            audio.play();
+        })
     </script>
-
-
 </body>
 
 </html>
