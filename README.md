@@ -33,3 +33,14 @@ Code: https://github.com/GenadiKozarev/dynamic-css-variables-with-javascript
 
 Preview: 
 <img width="1512" alt="dynamic_css_variables with_JS" src="https://github.com/user-attachments/assets/eb52dd63-197d-4d64-97c9-5a47b4916c6b">
+
+## 27-array-cardio-day
+
+### Hurray, hurray for the array cardio day!
+
+Live: https://genadikozarev.github.io/array-cardio-day/
+
+Code: https://github.com/GenadiKozarev/array-cardio-day
+
+Preview:
+<img width="1512" alt="array_exercise" src="https://github.com/user-attachments/assets/b9646924-67e9-479f-88b7-373828643cbc">
