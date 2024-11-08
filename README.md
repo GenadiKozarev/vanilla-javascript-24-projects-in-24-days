@@ -44,3 +44,16 @@ Code: https://github.com/GenadiKozarev/array-cardio-day
 
 Preview:
 <img width="1512" alt="array_exercise" src="https://github.com/user-attachments/assets/b9646924-67e9-479f-88b7-373828643cbc">
+
+## 26-flex-panel-gallery
+
+### A sleek and responsive photo gallery showcasing dynamic panels with CSS flex for seamless layout and interaction.
+
+Live: https://genadikozarev.github.io/flex-panel-gallery/
+
+Code: https://github.com/GenadiKozarev/flex-panel-gallery
+
+Preview:
+- video demo: https://github.com/user-attachments/assets/f17d2493-85d5-4787-b574-8b57bf86d3e4
+- screenshot:
+<img width="1512" alt="scrnsht-flex-panel-gallery" src="https://github.com/user-attachments/assets/6e0422bc-dd85-41b9-87f8-9a8861b6ed5b">
