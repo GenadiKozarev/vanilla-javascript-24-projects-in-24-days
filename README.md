@@ -1,4 +1,4 @@
-# vanilla-javascript-30-projects
+# vanilla-javascript-30-projects-in-30-days
 
 ## 30-drum-kit
 
