@@ -54,6 +54,7 @@ Live: https://genadikozarev.github.io/flex-panel-gallery/
 Code: https://github.com/GenadiKozarev/flex-panel-gallery
 
 Preview:
-- video demo: https://github.com/user-attachments/assets/f17d2493-85d5-4787-b574-8b57bf86d3e4
-- screenshot:
-<img width="1512" alt="scrnsht-flex-panel-gallery" src="https://github.com/user-attachments/assets/6e0422bc-dd85-41b9-87f8-9a8861b6ed5b">
+
+https://github.com/user-attachments/assets/22e03ead-a3ad-4fd9-9db4-6210904d62ee
+
+
