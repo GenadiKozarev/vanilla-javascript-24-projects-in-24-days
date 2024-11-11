@@ -1,6 +1,6 @@
-# vanilla-javascript-30-projects-in-30-days ⤵️
+# vanilla-javascript-30-projects-in-30-days
 
-## 30-drum-kit
+## 30-drum-kit ⤵️
 
 #### Use the keys to create a beat and have fun!
 
@@ -57,8 +57,6 @@ Preview:
 
 https://github.com/user-attachments/assets/22e03ead-a3ad-4fd9-9db4-6210904d62ee
 
-## 25-javascript-city-state-filter ⤵️
-
 ### A lightweight, user-friendly search bar component that filters and displays cities or states in real-time as you type.
 
 Live: [https://genadikozarev.github.io/flex-panel-gallery/](https://genadikozarev.github.io/javascript-city-state-filter/)
@@ -68,3 +66,14 @@ Code: [https://github.com/GenadiKozarev/flex-panel-gallery](https://github.com/G
 Preview:
 
 <img width="1484" alt="search-preview" src="https://github.com/user-attachments/assets/d87e647d-04fe-4aff-89e5-7f960d4a22aa">
+
+## 24-array-cardio-day-2 ⤵️
+
+### Practising a few array functions
+
+Live: https://genadikozarev.github.io/array-cardio-day-2/
+
+Code: https://github.com/GenadiKozarev/array-cardio-day-2
+
+Preview:
+<img width="1512" alt="array-cardio-day-2-preview" src="https://github.com/user-attachments/assets/b2b6603d-e45a-4521-893d-6a4b4f97e089">
