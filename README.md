@@ -77,3 +77,14 @@ Code: https://github.com/GenadiKozarev/array-cardio-day-2
 
 Preview:
 <img width="1512" alt="array-cardio-day-2-preview" src="https://github.com/user-attachments/assets/b2b6603d-e45a-4521-893d-6a4b4f97e089">
+
+## 23-html5-draw-canvas ⤵️
+
+### Have fun drawing!
+
+Live: https://genadikozarev.github.io/html5-draw-canvas/
+
+Code: https://github.com/GenadiKozarev/html5-draw-canvas
+
+Preview:
+<img width="1495" alt="drawing-preview" src="https://github.com/user-attachments/assets/62aed55c-1fef-4473-b4f3-0c5748ae8e15">
