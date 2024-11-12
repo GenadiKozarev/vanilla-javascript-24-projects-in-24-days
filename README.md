@@ -88,3 +88,14 @@ Code: https://github.com/GenadiKozarev/html5-draw-canvas
 
 Preview:
 <img width="1495" alt="drawing-preview" src="https://github.com/user-attachments/assets/62aed55c-1fef-4473-b4f3-0c5748ae8e15">
+
+## 23-dev-tools-domination ⤵️
+
+### A few useful DevTools Console tricks
+
+Live: https://genadikozarev.github.io/dev-tools-domination/
+
+Code: https://github.com/GenadiKozarev/dev-tools-domination
+
+Preview:
+<img width="1510" alt="console-tricks-preview" src="https://github.com/user-attachments/assets/6d157800-38b6-4719-82ab-9487fe5e2446">
