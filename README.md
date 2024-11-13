@@ -57,6 +57,8 @@ Preview:
 
 https://github.com/user-attachments/assets/22e03ead-a3ad-4fd9-9db4-6210904d62ee
 
+## 25-javascript-city-state-filter ⤵️
+
 ### A lightweight, user-friendly search bar component that filters and displays cities or states in real-time as you type.
 
 Live: [https://genadikozarev.github.io/flex-panel-gallery/](https://genadikozarev.github.io/javascript-city-state-filter/)
@@ -89,7 +91,7 @@ Code: https://github.com/GenadiKozarev/html5-draw-canvas
 Preview:
 <img width="1495" alt="drawing-preview" src="https://github.com/user-attachments/assets/62aed55c-1fef-4473-b4f3-0c5748ae8e15">
 
-## 23-dev-tools-domination ⤵️
+## 22-dev-tools-domination ⤵️
 
 ### A few useful DevTools Console tricks
 
@@ -99,3 +101,14 @@ Code: https://github.com/GenadiKozarev/dev-tools-domination
 
 Preview:
 <img width="1510" alt="console-tricks-preview" src="https://github.com/user-attachments/assets/6d157800-38b6-4719-82ab-9487fe5e2446">
+
+## 21-notepad-checklist ⤵️
+
+### Hold down the Shift key and click to select multiple items from the checklist at once!
+
+Live: https://genadikozarev.github.io/notepad-checklist/
+
+Code: https://github.com/GenadiKozarev/notepad-checklist
+
+Preview:
+<img width="1503" alt="notepad-checklist-preview" src="https://github.com/user-attachments/assets/2c885fba-a270-4561-8ae4-4323359eebba">
