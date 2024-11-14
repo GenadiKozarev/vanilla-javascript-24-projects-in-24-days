@@ -112,3 +112,14 @@ Code: https://github.com/GenadiKozarev/notepad-checklist
 
 Preview:
 <img width="1503" alt="notepad-checklist-preview" src="https://github.com/user-attachments/assets/2c885fba-a270-4561-8ae4-4323359eebba">
+
+## 20-custom-html5-video-player ⤵️
+
+### This custom HTML5 video player allows users to play, pause, fast-forward, rewind, adjust volume, change playback speed, and toggle fullscreen mode for a seamless viewing experience.
+
+Live: https://genadikozarev.github.io/custom-html5-video-player/
+
+Code: https://github.com/GenadiKozarev/custom-html5-video-player
+
+Preview:
+<img width="1499" alt="player-preview" src="https://github.com/user-attachments/assets/e5d1ec23-df40-494a-b579-46be88465d02">
