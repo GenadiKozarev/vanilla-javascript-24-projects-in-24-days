@@ -123,3 +123,14 @@ Code: https://github.com/GenadiKozarev/custom-html5-video-player
 
 Preview:
 <img width="1499" alt="player-preview" src="https://github.com/user-attachments/assets/e5d1ec23-df40-494a-b579-46be88465d02">
+
+## 19-key-detection ⤵️
+
+### Fun little experiment where the user have to enter a "secret code" on their keyboard for a surprise ;)
+
+Live: https://genadikozarev.github.io/key-detection/
+
+Code: https://github.com/GenadiKozarev/key-detection
+
+Preview:
+<img width="1502" alt="secret_code_preview" src="https://github.com/user-attachments/assets/63fb738c-2526-4c87-af1c-744cd0265116">
