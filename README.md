@@ -1,5 +1,16 @@
 # vanilla-javascript-30-projects-in-30-days
 
+##16-mouse-move-shadow-effect
+
+### Dynamic, multi-colored text-shadow effect by calculating offsets based on mouse movement.
+
+Live: https://genadikozarev.github.io/mouse-move-shadow-effect/
+
+Code: https://github.com/GenadiKozarev/mouse-move-shadow-effect
+
+Preview:
+<img width="1504" alt="text-shadow-preview" src="https://github.com/user-attachments/assets/0d956fd9-2899-4512-8bd0-e1160b72849c">
+
 ## 17-local-storage ⤵️
 
 ### Persisting state with LocalStorage
