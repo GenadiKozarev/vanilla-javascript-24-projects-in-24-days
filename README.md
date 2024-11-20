@@ -1,5 +1,16 @@
 # vanilla-javascript-30-projects-in-30-days
 
+# 15-sort-without-articles
+
+### Sort the bands alphabetically without taking 'a', 'the' or 'an' into consideration
+
+Live: https://genadikozarev.github.io/sort-without-articles/
+
+Code: https://github.com/GenadiKozarev/sort-without-articles
+
+Preview: 
+<img width="1503" alt="sort-without-articles-preview" src="https://github.com/user-attachments/assets/1d4d37b6-6913-4b2f-ba34-6b5e643088bf">
+
 ##16-mouse-move-shadow-effect
 
 ### Dynamic, multi-colored text-shadow effect by calculating offsets based on mouse movement.
