@@ -1,5 +1,17 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 17-local-storage ⤵️
+
+### Persisting state with LocalStorage
+
+Live: https://genadikozarev.github.io/local-storage/
+
+Code: https://github.com/GenadiKozarev/local-storage
+
+Preview:
+
+<img width="1510" alt="Screenshot 2024-11-20 at 12 12 02" src="https://github.com/user-attachments/assets/d3858b9a-ed3e-4fbf-bc95-0b2878f549d8">
+
 ## 18-images-slide-in-on-scroll ⤵️
 
 ### Slide-In effect of images when the user's scrolling up and down
