@@ -1,5 +1,16 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 14-adding-up-time-with-reduce ⤵️
+
+### Collect and calculate time from a list of videos to convert it to "hh:mm:ss" format
+
+Live: https://genadikozarev.github.io/adding-up-time-with-reduce/
+
+Code: https://github.com/GenadiKozarev/adding-up-time-with-reduce
+
+Preview: 
+<img width="977" alt="adding-up-time-with-reduce-preview" src="https://github.com/user-attachments/assets/25253d77-2a81-4267-872c-a51043c6c52c">
+
 ## 15-sort-without-articles ⤵️
 
 ### Sort the bands alphabetically without taking 'a', 'the' or 'an' into consideration
