@@ -1,5 +1,19 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 12-speech-detection ⤵️
+
+### A magical word-catching web app that turns your spoken thoughts into dancing text, ready to catch your every syllable on the fly!
+
+⚠️ Works on Chrome and Safari. Does not work on Firefox.
+
+Live: https://genadikozarev.github.io/speech-detection/
+
+Code: https://github.com/GenadiKozarev/speech-detection
+
+Preview:
+
+<img width="1311" alt="speech-recognition-preview" src="https://github.com/user-attachments/assets/5905af24-f8ca-4bee-95b5-ca4c8dffd82f">
+
 ## 13-webcam-fun ⤵️
 
 ### Apply a fun effect, take a photo and click on the photo to download it as a nice memory
