@@ -1,5 +1,17 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 13-webcam-fun ⤵️
+
+### Apply a fun effect, take a photo and click on the photo to download it as a nice memory
+
+Live: https://genadikozarev.github.io/webcam-fun/
+
+Code: https://github.com/GenadiKozarev/webcam-fun
+
+Preview:
+
+<img width="711" alt="webcam-fun-preview" src="https://github.com/user-attachments/assets/85c1c513-926f-4291-82bf-6f97fd58ae00">
+
 ## 14-adding-up-time-with-reduce ⤵️
 
 ### Collect and calculate time from a list of videos to convert it to "hh:mm:ss" format
