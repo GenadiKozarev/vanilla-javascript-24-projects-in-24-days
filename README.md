@@ -1,5 +1,17 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 11-follow-my-cursor ⤵️
+
+### Smooth link highlighting based on a user's mouse hover
+
+Live: https://genadikozarev.github.io/follow-my-cursor/
+
+Code: https://github.com/GenadiKozarev/follow-my-cursor
+
+Preview:
+
+<img width="1471" alt="follow-my-cursor-preview" src="https://github.com/user-attachments/assets/c5fa4f8b-ff8c-4334-95f0-3eb160380523">
+
 ## 12-speech-detection ⤵️
 
 ### A magical word-catching web app that turns your spoken thoughts into dancing text, ready to catch your every syllable on the fly!
