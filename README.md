@@ -1,5 +1,17 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 10-speech-synthesis ⤵️
+
+### Your Personal Voice Playground! Unleash the power of text-to-speech magic!
+
+Live: https://genadikozarev.github.io/speech-synthesis/
+
+Code: https://github.com/GenadiKozarev/speech-synthesis
+
+Preview: 
+
+<img width="1503" alt="speech-synthesis-preview" src="https://github.com/user-attachments/assets/21a2c302-6f8c-4a34-be86-1ceac3197482">
+
 ## 11-follow-my-cursor ⤵️
 
 ### Smooth link highlighting based on a user's mouse hover
