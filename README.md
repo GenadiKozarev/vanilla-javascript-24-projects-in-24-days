@@ -1,5 +1,17 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## 9-sticky-nav-bar ⤵️
+
+### Nav bar transformation based on user scroll
+
+Live: https://genadikozarev.github.io/sticky-nav-bar/
+
+Code: https://github.com/GenadiKozarev/sticky-nav-bar
+
+Preview:
+
+<img width="1493" alt="sticky-nav-bar-preview" src="https://github.com/user-attachments/assets/081ef295-83ff-4708-b32c-eb692be54156">
+
 ## 10-speech-synthesis ⤵️
 
 ### Your Personal Voice Playground! Unleash the power of text-to-speech magic!
