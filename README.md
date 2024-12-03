@@ -1,5 +1,17 @@
 # vanilla-javascript-30-projects-in-30-days
 
+## fluid-navbar-effect ⤵️
+
+### Dropdown with a really cool fluid effect upon user mouse hover
+
+Live: https://genadikozarev.github.io/fluid-navbar-effect/
+
+Code: https://github.com/GenadiKozarev/fluid-navbar-effect
+
+Preview:
+
+<img width="1493" alt="fluid-navbar-effect-preview" src="https://github.com/user-attachments/assets/606df67c-a3ce-4e98-a71b-5a397bac361d">
+
 ## 9-sticky-nav-bar ⤵️
 
 ### Nav bar transformation based on user scroll
