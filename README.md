@@ -1,4 +1,4 @@
-# vanilla-javascript-24-projects-in-24-days
+# vanilla-javascript-25-projects-in-25-days
 
 ## 1-flex-panel-gallery ⤵️
 
@@ -83,17 +83,17 @@ Code: https://github.com/GenadiKozarev/javascript-css-clock
 Preview:
 <img width="1508" alt="clock-preview" src="https://github.com/user-attachments/assets/8b338ca8-215c-4523-8ee0-06a4cb9464b2">
 
-## 8-sticky-nav-bar ⤵️
+## 8-countdown-timers ⤵️
 
-### Nav bar transformation based on user scroll
+### Simple countdown timer application to track time for tasks, events, or activities with precision.
 
-Live: https://genadikozarev.github.io/sticky-nav-bar/
+Live: https://genadikozarev.github.io/countdown-timers/
 
-Code: https://github.com/GenadiKozarev/sticky-nav-bar
+Code: https://github.com/GenadiKozarev/countdown-timers
 
 Preview:
 
-<img width="1493" alt="sticky-nav-bar-preview" src="https://github.com/user-attachments/assets/081ef295-83ff-4708-b32c-eb692be54156">
+<img width="1512" alt="countdown-timers-preview" src="https://github.com/user-attachments/assets/e75b46ea-d341-49d7-9cf6-830059b7fa1a" />
 
 ## 9-follow-my-cursor ⤵️
 
@@ -276,3 +276,15 @@ Code: https://github.com/GenadiKozarev/fluid-navbar-effect
 Preview:
 
 <img width="1493" alt="fluid-navbar-effect-preview" src="https://github.com/user-attachments/assets/606df67c-a3ce-4e98-a71b-5a397bac361d">
+
+## 25-sticky-nav-bar ⤵️
+
+### Nav bar transformation based on user scroll
+
+Live: https://genadikozarev.github.io/sticky-nav-bar/
+
+Code: https://github.com/GenadiKozarev/sticky-nav-bar
+
+Preview:
+
+<img width="1493" alt="sticky-nav-bar-preview" src="https://github.com/user-attachments/assets/081ef295-83ff-4708-b32c-eb692be54156">
